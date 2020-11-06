@@ -1,0 +1,13 @@
+Paso #1:
+
+Instalar dependencias
+
+Paso #2:
+Verificar versión de Google Chrome
+
+Paso #3:
+
+Instalar ChromeDriver
+
+https://chromedriver.chromium.org/
+https://chromedriver.chromium.org/getting-started
